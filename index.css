@@ -1,0 +1,1145 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.backimage{
+	width: 100%;
+	height: 175vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)),url(imag/Quran.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.nusin{
+	text-align: center;
+	
+
+}
+.x2{
+	width: 200px;
+	margin-top: 10px;
+	
+
+}
+	
+		.dugma{
+			text-align: center;
+			
+		}
+		.b1{
+			border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			
+
+		}
+		.b2{
+			border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+			
+		}
+		.b3{
+			border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 18px;
+			color: snow;
+		}.b4{
+			border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+		}
+}
+}
+
+.b1:hover{
+	font-weight: bold;
+	color: black;
+}
+.b2:hover{
+	font-weight: bold;
+}
+.b3:hover{
+	font-weight: bold;
+}
+.b4:hover{
+	font-weight: bold;
+}
+.rasm{
+	text-align: center;
+}
+.ra{
+	
+	border-radius: 30px;
+	margin-top: 70px;
+	width: 54%;
+
+}
+
+a{
+	text-decoration: none;
+	color: snow;
+
+}
+.link:hover{
+	font-weight: bold;
+}
+.back{
+	width: 100%;
+	height: 930vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)),url(imag/pan.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.s1{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s2{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+
+}
+
+.s3{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s4{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s5{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s6{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s7{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s8{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s9{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s10{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s11{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s12{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s13{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s14{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s15{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s16{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s17{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s18{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+
+}
+.s19{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s20{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s21{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s22{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s23{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s24{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s25{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s26{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s27{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s28{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s29{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s30{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s31{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s32{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s33{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s34{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s35{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s36{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s37{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s38{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s39{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s40{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s41{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s42{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s43{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s44{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s45{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s46{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s47{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s48{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s49{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s50{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s51{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+
+.s52{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s53{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s54{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s55{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s56{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s57{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s58{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s59{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s60{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s61{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s62{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s63{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s64{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s65{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s66{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s67{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s68{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s69{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s70{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s71{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s72{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s73{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s74{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s75{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s76{border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+	
+}
+.s77{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s78{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s79{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s80{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s81{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s82{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s83{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s84{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s85{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s86{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s87{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s88{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s89{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s90{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s91{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s92{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s93{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s94{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s95{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s96{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s97{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s98{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s99{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s100{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s101{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s102{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s103{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s104{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s105{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s106{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s107{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s108{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s109{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s110{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s111{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s112{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s113{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.s114{
+	border: 1px solid #3498db;
+			background: none;
+			padding: 10px 20px;
+			font-size: 20px;
+			cursor: pointer;
+			margin: 10px;
+			color: snow;
+}
+.back{
+	text-align: center;
+}
+.m1{
+	width: 100px;
+	
+}
+
+
